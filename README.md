@@ -1,4 +1,8 @@
 YahFramework
 ============
+Wrote a few years ago.One framework for build flash interactive minisite with actionscript3.0.
 
-Build for flash minisite(actionscript3.0).Wrote a few years ago.
+Useage
+============
+Comming soon...
+
